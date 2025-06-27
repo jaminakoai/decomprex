@@ -1,0 +1,9 @@
+pyaxmlparser
+PyQt5
+frida-tools
+click
+apkutils
+androguard
+requests
+markdown
+fpdf
